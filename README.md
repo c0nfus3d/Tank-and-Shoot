@@ -2,20 +2,11 @@
 
 **Tank and Shoot** is a tank shooting game in ImpactJS. 
 
-[Play Tank and Shoot - **Full Version**](http://theyconfuse.me/game/tank_shoot) 
-
-
-
-----------
-The code available here is for the basic game play, not the exact game available to play above.
-
-You only get one included level and no special power ups!
-
-This "Lite Version" is being released so you can play around with the idea on your own, not to have a full duplicate of the available game.
+[Play Tank and Shoot](http://theyconfuse.me/game/tank_shoot) 
 
 ----------
 
-**Created By**
+### Created By
 
 
 [@c0nfus3d1](https://twitter.com/c0nfus3d1) - [TheyConfuse.Me](http://theyconfuse.me) 
@@ -23,20 +14,25 @@ This "Lite Version" is being released so you can play around with the idea on yo
 ---
 
 
-**License**
+### License
 
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
+[Apache Version 2](http://theyconfuse.me/license/apache2)
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    Copyright 2014 Joshua Richard <josh.richard@gmail.com>
+     
+    Licensed under the Apache License, Version 2.0 (the "License"); 
+    you may not use this file except in compliance with the License.
+     
+    You may obtain a copy of the License at
+        http://theyconfuse.me/license/apache2
+     
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS
+    OF ANY KIND, either express or implied.
+     
+    See the License for the specific language governing permissions
+    and limitations under the License.
 
 ---
 
