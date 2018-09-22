@@ -2,8 +2,6 @@
 
 **Tank and Shoot** is a tank shooting game in ImpactJS.
 
-[Play Tank and Shoot](http://github.joshrichard.net/tankshoot/)
-
 
 ---
 
