@@ -12,7 +12,7 @@
 
 [Apache Version 2 License](http://www.joshrichard.net/licenses/apache2)
 
-    Copyright 2013 - 2014 Joshua Richard <josh.richard@gmail.com>
+    Copyright 2013 - 2014 Joshua Richard <http://www.joshrichard.net>
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
