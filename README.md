@@ -10,17 +10,13 @@
 
 ### License
 
-[Copyright © Joshua Richard, 2013 - 2014](https://www.joshrichard.net)
-
-[Apache Version 2 License](https://www.joshrichard.net/licenses/apache2)
-
     Copyright 2013 - 2014 Joshua Richard <https://www.joshrichard.net>
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
 
     You may obtain a copy of the License at
-        http://www.joshrichard.net/licenses/apache2
+        https://www.joshrichard.net/licenses/apache2
 
     Unless required by applicable law or agreed to in writing,
     software distributed under the License is distributed on an
